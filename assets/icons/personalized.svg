@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#B8860B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Dos manos estrechándose con corazón -->
+  <path d="M8 34 C8 34 14 28 22 28 C26 28 28 30 28 30 L36 30 C38 30 38 34 36 34 L30 34"/>
+  <path d="M56 34 C56 34 50 28 42 28 C38 28 36 30 36 30"/>
+  <path d="M8 34 L4 38"/>
+  <path d="M56 34 L60 38"/>
+  <!-- Corazón arriba -->
+  <path d="M32 12 C32 12 26 6 22 10 C18 14 22 20 32 26 C42 20 46 14 42 10 C38 6 32 12 32 12Z" fill="#B8860B" stroke="none" opacity="0.3"/>
+  <path d="M32 12 C32 12 26 6 22 10 C18 14 22 20 32 26 C42 20 46 14 42 10 C38 6 32 12 32 12Z"/>
+</svg>

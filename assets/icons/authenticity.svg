@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none" stroke="#B8860B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Escudo con check -->
+  <path d="M32 6 L52 16 V34 C52 46 42 54 32 58 C22 54 12 46 12 34 V16 Z"/>
+  <polyline points="22,32 29,39 42,26" stroke-width="3"/>
+</svg>

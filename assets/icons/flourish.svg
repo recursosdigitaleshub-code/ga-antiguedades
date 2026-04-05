@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 40" width="400" height="40">
+  <defs>
+    <linearGradient id="flourishGold" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" style="stop-color:#B8860B;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#D4AF37;stop-opacity:1"/>
+      <stop offset="50%" style="stop-color:#B8860B;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#D4AF37;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#B8860B;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+  <!-- Línea central -->
+  <line x1="40" y1="20" x2="360" y2="20" stroke="url(#flourishGold)" stroke-width="1"/>
+  <!-- Diamante central -->
+  <polygon points="200,12 208,20 200,28 192,20" fill="#B8860B"/>
+  <!-- Curvas decorativas izquierda -->
+  <path d="M180,20 Q170,8 155,14 Q145,18 150,20" fill="none" stroke="#B8860B" stroke-width="1.5"/>
+  <path d="M180,20 Q170,32 155,26 Q145,22 150,20" fill="none" stroke="#B8860B" stroke-width="1.5"/>
+  <!-- Curvas decorativas derecha -->
+  <path d="M220,20 Q230,8 245,14 Q255,18 250,20" fill="none" stroke="#B8860B" stroke-width="1.5"/>
+  <path d="M220,20 Q230,32 245,26 Q255,22 250,20" fill="none" stroke="#B8860B" stroke-width="1.5"/>
+  <!-- Puntos decorativos -->
+  <circle cx="140" cy="20" r="2" fill="#B8860B"/>
+  <circle cx="260" cy="20" r="2" fill="#B8860B"/>
+  <circle cx="120" cy="20" r="1.5" fill="#B8860B" opacity="0.6"/>
+  <circle cx="280" cy="20" r="1.5" fill="#B8860B" opacity="0.6"/>
+</svg>
