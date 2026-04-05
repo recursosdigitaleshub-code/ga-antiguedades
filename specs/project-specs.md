@@ -1,7 +1,7 @@
-# Especificaciones del Proyecto: Casa Dorada Antigüedades
+# Especificaciones del Proyecto: G.A. Antigüedades
 
 ## 1. Visión General
-Página web estática para establecer la presencia online de Casa Dorada Antigüedades, un negocio español de antigüedades. El sitio debe transmitir elegancia, confianza y profesionalismo.
+Página web estática para establecer la presencia online de G.A. Antigüedades, un negocio español de antigüedades. El sitio debe transmitir elegancia, confianza y profesionalismo.
 
 ## 2. Objetivos
 - Establecer presencia online profesional
@@ -66,7 +66,7 @@ Página web estática para establecer la presencia online de Casa Dorada Antigü
 
 ### 6.1 Navbar
 - Fija en la parte superior (sticky)
-- Logo SVG + nombre "Casa Dorada Antigüedades"
+- Logo SVG + nombre "G.A. Antigüedades"
 - Links: Inicio | Servicios | Contacto
 - Menú hamburguesa en móvil (< 768px)
 - Efecto de fondo al hacer scroll
@@ -74,7 +74,7 @@ Página web estática para establecer la presencia online de Casa Dorada Antigü
 ### 6.2 Hero Section
 - Altura completa (100vh)
 - Fondo oscuro con gradiente elegante
-- Título: "Casa Dorada Antigüedades" (Cormorant Garamond)
+- Título: "G.A. Antigüedades" (Cormorant Garamond)
 - Subtítulo: "Elegancia que trasciende el tiempo" (Cinzel)
 - Botón CTA: "Contáctenos" → smooth scroll a contacto
 - Divider decorativo SVG (flourish)
@@ -98,12 +98,12 @@ Página web estática para establecer la presencia online de Casa Dorada Antigü
 
 ### 6.5 Footer
 - Fondo oscuro
-- "Casa Dorada Antigüedades" + © 2026
+- "G.A. Antigüedades" + © 2026
 - Iconos de redes sociales (placeholder links)
 - Flourish decorativo
 
 ## 7. SEO y Metadatos
-- Title tag: "Casa Dorada Antigüedades | Elegancia que trasciende el tiempo"
+- Title tag: "G.A. Antigüedades | Elegancia que trasciende el tiempo"
 - Meta description en español
 - Open Graph tags para redes sociales
 - Schema.org LocalBusiness structured data

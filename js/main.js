@@ -1,5 +1,5 @@
 /**
- * Casa Dorada Antigüedades — Main JavaScript
+ * G.A. Antigüedades — Main JavaScript
  * Nav toggle, smooth scroll, form validation, scroll animations
  */
 

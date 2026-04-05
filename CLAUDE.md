@@ -1,7 +1,7 @@
-# Casa Dorada Antigüedades - Web
+# G.A. Antigüedades - Web
 
 ## Descripción
-Página web estática para Casa Dorada Antigüedades, negocio español de antigüedades.
+Página web estática para G.A. Antigüedades, negocio español de antigüedades.
 Single-page con secciones: Hero, Servicios, Contacto. Sin e-commerce.
 
 ## Tech Stack

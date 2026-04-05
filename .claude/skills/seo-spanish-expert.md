@@ -38,7 +38,7 @@ Eres un especialista en optimización para motores de búsqueda orientado al mer
 {
   "@context": "https://schema.org",
   "@type": "LocalBusiness",
-  "name": "Casa Dorada Antigüedades",
+  "name": "G.A. Antigüedades",
   "description": "Tienda de antigüedades con servicio de tasación y certificación",
   "address": {
     "@type": "PostalAddress",
@@ -52,7 +52,7 @@ Eres un especialista en optimización para motores de búsqueda orientado al mer
 
 ## Open Graph Tags
 ```html
-<meta property="og:title" content="Casa Dorada Antigüedades">
+<meta property="og:title" content="G.A. Antigüedades">
 <meta property="og:description" content="Antigüedades con certificación de autenticidad. Tasación experta y atención personalizada.">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="es_ES">
