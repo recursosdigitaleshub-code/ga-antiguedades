@@ -29,6 +29,7 @@ Prototipos/
 - **Responsive**: mobile-first, breakpoints en 768px (tablet) y 1200px (desktop)
 - **Graficos**: SVG preferido sobre imagenes raster
 - **Imagenes**: cada prototipo tendra una carpeta `imagenes/` con fotos proporcionadas por el usuario. Al generar el sitio, optimizar (JPEG 82%, max 1200x800 con Pillow) y copiar a `assets/images/`. Usar `loading="lazy"` en imagenes debajo del fold.
+- **Datos ilustrativos**: cuando no se dispone del nombre real, teléfono, dirección, legajo u otros datos del cliente, usar datos ficticios y agregar una nota visible en el footer: "* Datos ilustrativos para prototipo. Serán reemplazados con la información real del cliente."
 - **Sin dependencias**: no npm, no build tools, abrir `index.html` directamente
 
 ## Comandos utiles
